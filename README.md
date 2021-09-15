@@ -5,5 +5,5 @@
    
    #机器学习分类
    
-   ![ABC](https://github.com/VirAurora/test02/blob/main/2.jpg) 
+   ![ABC](galaxy/night.jpg) 
  
