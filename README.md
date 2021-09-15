@@ -5,5 +5,5 @@
    
    #机器学习分类
    
-   ![galaxy](https://github.com/VirAurora/test02/blob/main/galaxy/night.jpg) 
+   ![image](https://github.com/VirAurora/test02/blob/main/galaxy/night.jpg)
  
