@@ -5,5 +5,5 @@
    
    #机器学习分类
    
-   ![ins](https://github.com/VirAurora/test02/blob/main/2.jpg)
+   ![](https://github.com/VirAurora/test02/blob/main/2.jpg)
  
