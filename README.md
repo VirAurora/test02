@@ -5,5 +5,5 @@
    
    #机器学习分类
    
-   ![1](https://github.com/VirAurora/test02/blob/main/2.jpg?raw=true)
+   ![ABC](http://avatar.csdn.net/D/6/7/1_qq_21376985.jpg) 
  
